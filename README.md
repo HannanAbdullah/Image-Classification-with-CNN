@@ -6,7 +6,7 @@
 
 ### Labels	Description: :
  
-| Label    | Description   |
+    | Label    | Description   |
     | :---: | :---: |
     | 0   | `' T-shirt/top'`   |
     | 1   | `'Trouser'` |
