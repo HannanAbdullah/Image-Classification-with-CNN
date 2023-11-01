@@ -67,11 +67,12 @@ The above image demonstrates that the model 5 got good scores outperforming the 
 | dense_33 (Dense)   | (None, 128) | 2973824 |
 | dense_34 (Dense)   | (None, 64) | 8256  |    
 | dense_35 (Dense)   | (None, 10) | 650 |      
-=================================================================
-<p> Total params: 2995458 (11.43 MB)
-Trainable params: 2995306 (11.43 MB)
-Non-trainable params: 152 (608.00 Byte)</p>
-_________________________________________________________________
+
+
+<p> 
+- Total params: 2995458 (11.43 MB)
+- Trainable params: 2995306 (11.43 MB)
+- Non-trainable params: 152 (608.00 Byte)</p>
 
 
 ## Acknowledgements
